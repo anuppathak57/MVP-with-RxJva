@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UrlReadAndUpdate</string>
+    <string name="tenthChar">10th Character :</string>
+    <string name="totalWords">Total words :</string>
+    <string name="everyTenthChar">Every 10th Character :</string>
+    <string name="start">Start</string>
+    <string name="alert">Alert</string>
+    <string name="no_network">No network available !!!</string>
+</resources>
